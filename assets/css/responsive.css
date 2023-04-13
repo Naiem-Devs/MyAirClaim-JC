@@ -1,0 +1,899 @@
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .flight__wrp_colam {
+        margin: auto;
+    }
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .logo-area {
+        max-width: 400px;
+    }
+    
+    .menu-area nav ul li a {
+        margin-right: 30px;
+        font-size: 17px;
+    }
+
+    .hero_left h2 {
+        font-size: 36px;
+    }
+    
+    .hero_left h2:after {
+        left: -510px;
+    }
+    
+    .help__blk i {
+        max-width: 80px;
+    }
+    
+    .help__blk {
+        height: 100%;
+    }
+    
+    .price__blk a.thm_btn {
+        font-size: 15px;
+    }
+    
+    .feed_text p {
+        font-size: 16px;
+    }
+    
+    .feedback_slider {
+        max-width: 830px;
+        margin-inline: auto;
+    }
+    .feedback__blk {
+        max-width: 85%;
+    }
+    .Step__input_blk {
+        max-width: 350px;
+    }
+
+
+    .FAQ__hero_content .hero_right ul:after {
+        max-width: 666px;
+    }
+    
+    .FAQ__hero_content .hero_right {
+        max-width: 970px;
+    }
+    .faq__tab__btn li button {
+        font-size: 18px;
+    }
+
+    .st__v2 h3:after {
+        display: none;
+    }
+    
+    .st__v2 h3 {
+        color: initial;
+    }
+}
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .sec__bg{
+    background-size: cover;
+}
+    .hero_right {
+        max-width: 500px;
+        margin-inline: auto;
+        padding-left: 0;
+        margin-top: 30px;
+    }
+
+.FAQ__hero_content .hero_right {
+    max-width: 750px;
+}
+
+.FAQ__hero_content .hero_right ul li {
+    max-width: 222px;
+}
+    
+    .hero_left {
+        max-width: 500px;
+        margin-inline: auto;
+    }
+    
+    .hero_left h2 {
+        font-size: 38px;
+    }
+    .price__blk {
+        max-width: 380px;
+        margin-inline: auto;
+    }
+    
+    .price-Area {
+        height: auto;
+    }
+    
+    .price__blk.active {
+        scale: 1;
+        margin: 30px auto;
+    }
+    
+    .price-Area {
+        margin-bottom: 120px;
+    }
+    
+    .price-Area .price__text ul {
+        flex-direction: column;
+        max-width: 390px;
+        justify-content: revert;
+        align-items: baseline;
+        margin-inline: auto;
+    }
+    .help__blk {
+        max-width: 420px;
+        margin-inline: auto;
+    }
+    
+    .help__blk.active {
+        margin: 20px auto;
+    }
+    .price-Area .price__text {
+        margin-bottom: 0;
+    }
+    
+    .price__text ul li {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    
+    .feedback-Area .price__text ul {
+        flex-direction: column;
+    }
+    
+    .price__text {
+        max-width: 400px;
+        margin-inline: auto;
+    }
+    
+    .feedback-Area .price__text ul li {
+        font-size: 18px;
+    }
+    
+    .feedback__blk {
+        flex-direction: column;
+        max-width: 500px;
+        margin-top: 50px;
+    }
+    
+    .feed__user {
+        max-width: 170px;
+    }
+    
+    .feed_text {
+        margin-left: 0;
+    }
+    
+    .feed__user i {
+        max-width: 170px;
+    }
+    
+    .feedback_slider {
+        max-width: 670px;
+        margin-inline: auto;
+    }
+    
+    .flight__btn a {
+        font-size: 15px;
+        padding: 10px 20px;
+    }
+    
+    .flight__btn {
+        max-width: 200px;
+    }
+    
+    .flight__wrp {
+        padding: 50px 30px;
+    }
+    .work__text__content {
+        max-width: 413px;
+        margin-inline: auto;
+        padding-left: 0;
+        margin-top: 40px;
+    }
+    
+    .work__img {
+        margin-inline: auto;
+    }
+    
+    h1.title {
+        font-size: 40px;
+    }
+    .Newsletter__content p {
+        text-align: center;
+    }
+    
+    .Newsletter__content ul {
+        width: max-content;
+        margin-inline: auto;
+    }
+    .step__nav {
+        max-width: 700px;
+    }
+    
+    .step__nav ul li.bdr:after, .step__nav ul li.bdr:before {
+        width: 175px;
+    }
+    
+    .Step__blk__content a {
+        font-size: 16px;
+        width: 198px;
+    }
+
+
+
+    .FAQ__hero_content {
+        margin-top: 62px;
+    }
+    
+    .FAQ__hero_content .hero_right ul:after {
+        max-width: 500px;
+    }
+    
+    .faq__tab__btn li button {
+        font-size: 15px;
+    }
+    
+    .FAQ__hero_content .hero_right p {
+        font-size: 15px;
+    }
+    
+    .FAQ__area .accordion-button.collapsed, .FAQ__area .accordion-button {
+        font-size: 20px;
+        text-align: left;
+    }
+
+    .blog__img {
+        max-width: 500px;
+        margin-inline: auto;
+    }
+    
+    .blog__content {
+        max-width: 500px;
+        padding-left: 0;
+        margin-top: 30px;
+        margin-inline: auto;
+    }
+
+
+
+    .Strike_text {
+        padding-right: 0;
+    }
+    
+    .Strike_text h3.text-center {
+        text-align: left !important;
+    }
+    
+    .all_page h3 {
+        font-size: 22px;
+    }
+    
+    .all_page h3 br {
+        display: none;
+    }
+    
+    .Strike-Area {
+        padding: 60px 0;
+    }
+    
+    .Strike-2-Area .container {
+        max-width: 475px;
+    }
+    
+    .flight__wrp_colam {
+        margin-top: 30px;
+    }
+    
+    .st__v2 {
+        padding-left: 0;
+        margin-top: 40px;
+    }
+    
+    .strike-3-Area:after {
+        display: none;
+    }
+    
+    .refusal__list {
+        max-width: 500px;
+    }
+    
+    .leg-blk {
+        max-width: 500px;
+        margin-inline: auto;
+        margin-bottom: 40px;
+    }
+    
+    section.Legislation-Area .refusal__text {
+        margin-top: 40px;
+    }
+
+    .claim__blk i {
+        width: 150px;
+    }
+    
+    .sec_title h1 {
+        font-size: 40px;
+    }
+    
+    .luggage__wrp h4 {
+        font-size: 18px;
+    }
+    
+    .luggage-Area .container {
+        max-width: 500px;
+    }
+    
+    .luggage_right {
+        margin-top: 40px;
+    }
+    
+    .determined_text {
+        max-width: 400px;
+        margin-inline: auto;
+    }
+    
+    .determined-cont {
+        margin-bottom: 30px;
+    }
+    
+    .determined_right {
+        max-width: 500px;
+        margin: auto;
+    }
+    
+    .comply span {
+        font-size: 20px;
+    }
+    
+    section.luggage-Area.Boarding .container {
+        max-width: 750px;
+    }
+    
+    .Extraordinary-text p {
+        font-size: 18px;
+    }
+
+}
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+    .hero_right {
+        max-width: 325px;
+        padding-left: 0;
+        margin-top: 30px;
+    }
+    
+    .hero_left {
+        max-width: 500px;
+        margin-inline: auto;
+    }
+    
+    .hero_left h2 {
+        font-size: 26px;
+        width: 100%;
+        position: relative;
+    }
+
+.hero_left h2:after {
+    left: -15px;
+    width: 105%;
+}
+    .price__blk {
+        max-width: 380px;
+        margin-inline: auto;
+    }
+    
+    .price-Area {
+        height: auto;
+    }
+    
+    .price__blk.active {
+        scale: 1;
+        margin: 30px auto;
+    }
+    
+    .price-Area {
+        margin-bottom: 120px;
+    }
+    
+    .price-Area .price__text ul {
+        flex-direction: column;
+        max-width: 390px;
+        justify-content: revert;
+        align-items: baseline;
+        margin-inline: auto;
+    }
+    .help__blk {
+        max-width: 340px;
+        margin-inline: auto;
+    }
+    
+    .help__blk.active {
+        margin: 20px auto;
+    }
+    .price-Area .price__text {
+        margin-bottom: 0;
+    }
+    
+    .price__text ul li {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    
+    .feedback-Area .price__text ul {
+        flex-direction: column;
+    }
+    
+    .price__text {
+        max-width: 400px;
+        margin-inline: auto;
+    }
+    
+    .feedback-Area .price__text ul li {
+        font-size: 18px;
+        text-align: left;
+        align-items: baseline;
+    }
+    
+    .feedback__blk {
+        flex-direction: column;
+        max-width: 500px;
+        margin-top: 50px;
+    }
+    
+    .feed__user {
+        max-width: 170px;
+        margin-inline: auto;
+    }
+    
+    .feed_text {
+        margin-left: 0;
+        text-align: center;
+    }
+    
+    .feed__user i {
+        max-width: 170px;
+    }
+    
+    .feedback_slider {
+        max-width: 670px;
+        margin-inline: auto;
+    }
+    
+    .flight__btn a {
+        font-size: 15px;
+        padding: 10px 20px;
+    }
+    
+    .flight__btn {
+        max-width: 200px;
+    }
+    
+    .flight__wrp {
+        padding: 50px 0px;
+        flex-direction: column;
+        max-width: 350px;
+        margin-inline: auto;
+        border: none;
+    }
+
+.flight-Area {
+    background: var(--thmColor);
+    margin-bottom: 0;
+}
+
+.flight__wrp_colam .flight__wrp {
+    padding: 50px 0px;
+}
+
+section.hero-Area .flight__wrp {
+    margin-top: 30px;
+    padding: 50px 20px;
+}
+    .work__text__content {
+        max-width: 413px;
+        margin-inline: auto;
+        padding-left: 0;
+        margin-top: 40px;
+    }
+    
+    .work__img {
+        margin-inline: auto;
+    }
+    
+    h1.title {
+        font-size: 32px;
+    }
+    .Newsletter__content p {
+        text-align: center;
+    }
+    
+    .Newsletter__content ul {
+        width: max-content;
+        margin-inline: auto;
+    }
+    .flight__blk {
+        width: 100%;
+        margin-bottom: 34px;
+    }
+    
+    .hero_left h4 {
+        font-size: 22px;
+    }
+    
+    .hero-Area {
+        padding: 80px 0 50px;
+    }
+    
+    .hero_right ul:after {
+        height: 236px;
+    }
+    
+    .hero_right ul li {
+        align-items: baseline;
+    }
+    
+    .help__blk i {
+        max-width: 80px;
+    }
+    
+    .help__blk h4 {
+        font-size: 20px;
+    }
+    
+    .feed_text p {
+        font-size: 16px;
+    }
+    
+    .footer__nav {
+        max-width: 100%;
+        margin: 20px 0;
+    }
+    .step__nav {
+        max-width: 700px;
+    }
+    
+    .step__nav ul li.bdr:after, .step__nav ul li.bdr:before {
+        width: 1px;
+        display: none;
+    }
+    
+    .Step__blk__content a {
+        font-size: 16px;
+        width: 250px;
+        margin-bottom: 10px;
+    }
+    .step__nav ul {
+        flex-direction: column;
+    }
+    
+    .step__nav ul li {
+        text-align: left;
+        display: flex;
+        align-items: center;
+        margin-bottom: 12px;
+    }
+    
+    .step__nav ul li span {
+        margin: unset;
+        margin-right: 20px;
+        width: 45px;
+        height: 45px;
+    }
+    
+    .step__nav ul li p {
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+    
+    .Step_Form-Area .sec_title h2 {
+        font-size: 32px;
+    }
+    
+    .Step_Form-Area .sec_title p {
+        font-size: 18px;
+    }
+    
+    .Step_Form-Area .sec_title {
+        margin: 70px 0;
+    }
+    
+    .step__top p {
+        font-size: 18px;
+        text-align: center;
+    }
+    
+    
+    .Step__input_blk {
+        padding-left: 35px;
+    }
+    
+    .Step__input_blk label img {
+        max-width: 20px;
+    }
+    
+    .Step__input_blk label {
+        font-size: 18px;
+        margin-left: -38px;
+    }
+    
+    .Step__input_blk input {
+        font-size: 14px;
+    }
+    
+    .Step__input_btm p {
+        font-size: 16px;
+        padding: 10px;
+    }
+
+
+    .FAQ__hero_content .hero_right ul {
+        display: unset;
+    }
+    
+    .FAQ__hero_content .hero_right ul li {
+        flex-direction: unset;
+        text-align: left;
+        align-items: flex-start;
+    }
+    
+    .FAQ__hero_content {
+        margin-top: 10px;
+    }
+    
+    .FAQ__hero_content .hero_right ul li span {
+        margin-right: 13px;
+    }
+    
+    .hero_right ul:after {
+        display: none;
+    }
+    
+    .FAQ__hero_content .hero_right p {
+        font-size: 15px;
+    }
+    
+    .faq__tab__btn {
+        flex-direction: column;
+        text-align: left;
+        margin-bottom: 50px;
+    }
+    
+    .faq__tab__btn li button {
+        text-align: left;
+        margin-bottom: 11px;
+        font-size: 18px;
+    }
+    
+    .faq__tab__btn li button:after {
+        opacity: 0 !important;
+    }
+    
+    .FAQ__area {
+        margin: 50px 0;
+    }
+    
+    .FAQ__area .accordion-button.collapsed, .FAQ__area .accordion-button {
+        font-size: 18px;
+        padding: 10px 20px;
+    }
+    
+    .blog__content {
+        padding-left: 0;
+    }
+    
+    .blog__content ul li {
+        display: flex;
+        align-items: baseline;
+        margin-bottom: 15px;
+        line-height: 1.2;
+    }
+
+
+    .blog__img {
+        max-width: 380px;
+        margin-inline: auto;
+    }
+    
+    .blog__content {
+        max-width: 380px;
+        padding-left: 0;
+        margin-top: 30px;
+        margin-inline: auto;
+    }
+    .blog__content h3{
+    font-size: 20px;
+}
+.sec__bg {
+    background-size: cover;
+}
+
+
+
+
+.Strike_text {
+    padding-right: 0;
+}
+
+.Strike_text h3.text-center {
+    text-align: left !important;
+}
+
+.all_page h3 {
+    font-size: 18px;
+}
+
+.all_page h3 br {
+    display: none;
+}
+
+.Strike-Area {
+    padding: 60px 0;
+}
+
+.Strike-2-Area .container {
+    max-width: 475px;
+}
+
+.flight__wrp_colam {
+    margin-top: 30px;
+}
+
+.st__v2 {
+    padding-left: 0;
+    margin-top: 40px;
+}
+
+.strike-3-Area:after {
+    display: none;
+}
+
+.refusal__list {
+    max-width: 500px;
+    padding: 20px;
+}
+
+.refusal__list .MyAirClaim__list {
+    padding: 20px;
+}
+
+.leg-blk {
+    max-width: 500px;
+    margin-inline: auto;
+    margin-bottom: 40px;
+}
+
+section.Legislation-Area .refusal__text {
+    margin-top: 40px;
+}
+
+.claim__blk i {
+    width: 130px;
+}
+
+.sec_title h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.luggage__wrp h4 {
+    font-size: 18px;
+}
+
+.luggage-Area .container {
+    max-width: 500px;
+}
+
+.luggage_right {
+    margin-top: 40px;
+}
+
+.determined_text {
+    max-width: 400px;
+    margin-inline: auto;
+}
+
+.determined-cont {
+    margin-bottom: 30px;
+}
+
+.determined_right {
+    max-width: 500px;
+    margin: auto;
+    padding: 40px;
+    padding-bottom: 30px;
+}
+
+.comply span {
+    font-size: 20px;
+}
+
+section.luggage-Area.Boarding .container {
+    max-width: 750px;
+}
+
+.Extraordinary-text p {
+    font-size: 18px;
+}
+.luggage__wrp ul {
+    flex-direction: column;
+    align-items: c;
+    align-items: center;
+}
+
+.Boarding .luggage__wrp ul li {
+    margin-bottom: 30px;
+}
+.strike-3-Area {
+    padding: 60px 0;
+}
+
+.refusal-Area {
+    height: 400px;
+}
+
+.Legislation-Area {
+    padding-bottom: 50px;
+}
+
+.claim__blk {
+    margin-bottom: 30px;
+}
+
+.claim-Area {
+    padding: 60px 0;
+}
+
+section.claim-Area .mb-5 {
+    margin-bottom: 0 !important;
+}
+
+section.claim-Area .sec_title {
+    margin-bottom: 50px;
+}
+
+section.claim-Area .claim__wrp {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.luggage__wrp ul li {
+    margin-bottom: 34px;
+}
+
+.luggage__wrp {
+    margin-bottom: 0;
+}
+
+.MyAirClaim__list {
+    padding: 50px 30px 30px;
+}
+.footer-Area{
+    padding-top: 70px;
+}
+.Extraordinary-Area{
+    margin-bottom: 0px;
+}
+.blog__area {
+    margin-bottom: 60px;
+}
+.Strike-2-Area {
+    padding: 70px 0 50px;
+}
+}
+ 
+/* Large Mobile screen :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
